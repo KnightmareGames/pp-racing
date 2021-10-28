@@ -51,12 +51,12 @@ export default {
       {
         hid: 'plantery-pod-racing-landing',
         name: 'keywords',
-        content: ''
+        content: 'discord, bot, game, pp, racing, planetary, pod'
       },
       {
         hid: 'landing-description',
         name: 'description',
-        content: ''
+        content: 'A multiplayer racing simulation game where players scavenge, build, and race their way to becoming the best in the universe'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
