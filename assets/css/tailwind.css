@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Swipe Race Demo";
+        font-weight: 700;
+        src: url("/fonts/SwipeRaceDemo.ttf")
+    }
+}
+
+@layer primary {
+    @font-face {
+        font-family: "Racing Sans One";
+        font-weight: 700;
+        src: url("/fonts/RacingSansOne-Regular.ttf")
+    }    
+}
