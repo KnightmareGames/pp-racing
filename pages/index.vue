@@ -15,14 +15,14 @@
     </div>
     <div class="flex justify-center  mx-auto">
       <div class="grid grid-cols-2 grid-rows-4 ">
-        <div><img src="/images/Header-1.svg" alt="Line break stripe"></div>
+        <div><img src="/images/Header-1.svg" alt="Build your track"></div>
         <div></div>
         <div></div>
-        <div><img src="/images/Header-2.svg" alt="Line break stripe"></div>
-        <div><img src="/images/Header-3.svg" alt="Line break stripe"></div>
+        <div><img src="/images/Header-2.svg" alt="Scavenge for parts"></div>
+        <div><img src="/images/Header-3.svg" alt="Configure your pod"></div>
         <div></div>
         <div></div>
-        <div><img src="/images/Header-4.svg" alt="Line break stripe"></div>
+        <div><img src="/images/Header-4.svg" alt="Race and WIN"></div>
       </div>
     </div>
     <div class="flex justify-start mt-5">
@@ -33,9 +33,9 @@
     </div>
     <div class="flex justify-center mx-auto mt-10">
       <div class="grid grid-cols-3 grid-rows-1 ">
-        <div><a href="https://discord.gg/ruH9t94PHK"><img src="/images/Discord-Logo.svg" alt="Line break stripe"></a></div>
+        <div><a href="https://discord.gg/ruH9t94PHK"><img src="/images/Discord-Logo.svg" alt="Planetary Pod Racing Discord Link"></a></div>
         <div></div>
-        <div><a href="https://twitter.com/PlayKnightmare"><img src="/images/Twitter-Logo.svg" alt="Line break stripe"></a></div>
+        <div><a href="https://twitter.com/PlayKnightmare"><img src="/images/Twitter-Logo.svg" alt="Knightmare Games Twitter Link"></a></div>
       </div>
     </div>
   </div>
