@@ -9,6 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxt/content": "^1.15.0",
     "@nuxtjs/svg": "^0.1.12",
     "@vue/shared": "^3.2.1",
     "core-js": "^3.9.1",

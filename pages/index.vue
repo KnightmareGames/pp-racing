@@ -33,7 +33,7 @@
     </div>
     <div class="flex justify-center mx-auto mt-10">
       <div class="grid grid-cols-3 grid-rows-1 ">
-        <div><a href="https://discord.gg/ruH9t94PHK"><img src="/images/Discord-Logo.svg" alt="Planetary Pod Racing Discord Link"></a></div>
+        <div><a href="https://discord.gg/9VJbcpNbyv"><img src="/images/Discord-Logo.svg" alt="Planetary Pod Racing Discord Link"></a></div>
         <div></div>
         <div><a href="https://twitter.com/PPRacingGame"><img src="/images/Twitter-Logo.svg" alt="Planetary Pod Racing Twitter Link"></a></div>
       </div>
