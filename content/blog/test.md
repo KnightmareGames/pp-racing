@@ -1,7 +1,7 @@
 ---
 title: My first blog post
 description: Welcome to my first blog post using the content module
-slug: first-post
+slug: test
 img: Img.png
 ---
 
