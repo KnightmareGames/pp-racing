@@ -45,7 +45,8 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/google-fonts'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -58,5 +59,15 @@ export default {
 
   env : {
     GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID || 'Not Configured'
+  },
+
+  googleFonts: {
+    families: {
+      // a simple name
+      Roboto: true,
+  
+      // a name with spaces
+      Oswald: true,
+    }
   }
 }

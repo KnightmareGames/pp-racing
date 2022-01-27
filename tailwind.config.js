@@ -12,8 +12,8 @@ module.exports = {
   theme: {
     backgroundColor: theme => ({
       ...theme('colors'),
-      'primary': '#EFE0C6',
-      'secondary': '#378397',
+      'primary': '#2E2D2D',
+      'secondary': '#F5D21F',
       'tertiary': '#BF5136'
     }),
     textColor: theme => ({
@@ -26,11 +26,13 @@ module.exports = {
         'sans': ["Roboto", ...defaultTheme.fontFamily.sans],
         'main': ['"Racing Sans One"'],
         'secondary': ['"Open Sans"'],
+        'nav': ['Oswald'],
       }
     },
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+  ],
 }

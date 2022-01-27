@@ -1,7 +1,7 @@
 <template>
  <article>
        <!-- add default stuff in here, title, header image, etc -->
-    <nuxt-content :document="article" />
+    <nuxt-content class="prose prose-sm sm:prose lg:prose-lg xl:prose-2xl mx-auto" :document="article" />
   </article> 
 </template>
 
