@@ -1,6 +1,6 @@
 <template>
-  <div class="md:flex">
-      <h1>Commands</h1>
+  <div class="flex justify-center">
+    <h1 class="text-secondary text-3xl mt-40">COMING SOON!</h1>
   </div>
 </template>
 
