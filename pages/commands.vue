@@ -17,31 +17,6 @@
           <tr>
             <template>
               <div class="w-1/2 m-auto pt-10">
-                <Accordion title="/Register">
-                  Start your Planetary Pod Journey!
-                </Accordion>
-              </div>
-            </template>
-            <script>
-            import Accordion from './components/Accordion.vue'
-            export default {
-              name: 'App',
-              components: {
-                Accordion
-              }
-            }
-            </script>
-            <style>
-            #app {
-              font-family: Avenir, Helvetica, Arial, sans-serif;
-              -webkit-font-smoothing: antialiased;
-              -moz-osx-font-smoothing: grayscale;
-            }
-            </style>
-          </tr>
-          <tr>
-            <template>
-              <div class="w-1/2 m-auto pt-10">
                 <Accordion title="/capsule">
                   Check all your capsules and open them for awesome loot!
                 </Accordion>
@@ -293,33 +268,8 @@
           <tr>
             <template>
               <div class="w-1/2 m-auto pt-10">
-                <Accordion title="/Ping">
+                <Accordion title="/ping">
                   Pong!
-                </Accordion>
-              </div>
-            </template>
-            <script>
-            import Accordion from './components/Accordion.vue'
-            export default {
-              name: 'App',
-              components: {
-                Accordion
-              }
-            }
-            </script>
-            <style>
-            #app {
-              font-family: Avenir, Helvetica, Arial, sans-serif;
-              -webkit-font-smoothing: antialiased;
-              -moz-osx-font-smoothing: grayscale;
-            }
-            </style>
-          </tr>
-          <tr>
-            <template>
-              <div class="w-1/2 m-auto pt-10">
-                <Accordion title="/prestige">
-                  Begin the journey with a new Pod. Earn premanent bonuses and eternal planetary fame for each Prestige Level. 
                 </Accordion>
               </div>
             </template>
@@ -393,7 +343,57 @@
           <tr>
             <template>
               <div class="w-1/2 m-auto pt-10">
-                <Accordion title="/Shop">
+                <Accordion title="/refuel">
+                  Claim fuel from this planet's FUEL depot to use in Actions. 
+                </Accordion>
+              </div>
+            </template>
+            <script>
+            import Accordion from './components/Accordion.vue'
+            export default {
+              name: 'App',
+              components: {
+                Accordion
+              }
+            }
+            </script>
+            <style>
+            #app {
+              font-family: Avenir, Helvetica, Arial, sans-serif;
+              -webkit-font-smoothing: antialiased;
+              -moz-osx-font-smoothing: grayscale;
+            }
+            </style>
+          </tr>
+          <tr>
+            <template>
+              <div class="w-1/2 m-auto pt-10">
+                <Accordion title="/register">
+                  Start your Planetary Pod Journey!
+                </Accordion>
+              </div>
+            </template>
+            <script>
+            import Accordion from './components/Accordion.vue'
+            export default {
+              name: 'App',
+              components: {
+                Accordion
+              }
+            }
+            </script>
+            <style>
+            #app {
+              font-family: Avenir, Helvetica, Arial, sans-serif;
+              -webkit-font-smoothing: antialiased;
+              -moz-osx-font-smoothing: grayscale;
+            }
+            </style>
+          </tr>
+          <tr>
+            <template>
+              <div class="w-1/2 m-auto pt-10">
+                <Accordion title="/shop">
                   Purchase new Pods, Parts, CHIPPs, and items from this Planet's unique shop. 
                 </Accordion>
               </div>
@@ -418,7 +418,7 @@
           <tr>
             <template>
               <div class="w-1/2 m-auto pt-10">
-                <Accordion title="/Weather">
+                <Accordion title="/weather">
                   Check the current weather on this planet.
                 </Accordion>
               </div>
@@ -443,10 +443,10 @@
         </table>
     </div>
 
-      <input type="radio" id="tabActivies" name="mytabs">
-      <label for="tabActivies">Activies</label>
+      <input type="radio" id="tabActions" name="mytabs">
+      <label for="tabActions">Actions</label>
       <div class="tab">
-        <h2>Activies</h2>
+        <h2>Actions</h2>
         <table>
           <tr>
             <template>
@@ -478,6 +478,31 @@
               <div class="w-1/2 m-auto pt-10">
                 <Accordion title="/practice">
                   Simulate how your Pod would do on the selected track in a practice race. 
+                </Accordion>
+              </div>
+            </template>
+            <script>
+            import Accordion from './components/Accordion.vue'
+            export default {
+              name: 'App',
+              components: {
+                Accordion
+              }
+            }
+            </script>
+            <style>
+            #app {
+              font-family: Avenir, Helvetica, Arial, sans-serif;
+              -webkit-font-smoothing: antialiased;
+              -moz-osx-font-smoothing: grayscale;
+            }
+            </style>
+          </tr>
+          <tr>
+            <template>
+              <div class="w-1/2 m-auto pt-10">
+                <Accordion title="/race">
+                  Race your PP against other players. 
                 </Accordion>
               </div>
             </template>
