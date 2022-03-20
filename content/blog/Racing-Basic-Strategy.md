@@ -13,12 +13,12 @@ There are many ways to play Planetary Pod Racing (PP Racing for short). Most peo
 
 # Getting Started
 
-There are several different types of races, we call actions, you can participate in with PP Racing: Skirmishes, Duels, Trials, and more. But at the core, they all have the same foundation. You select the Pod you'd like to enter into the race, (for all actions besides Trials this will be a Pod you own from your Garage) then you either select or are told the type of Race Track you'll be racing on, and then you race! Because PP Racing is a simulation game, the whole race is run automatically and you receive the results instantly. Because of this, knowing what type of Race Tracks and Actions your Pod accels at are the best way to guarantee that you'll have the most favorable outcome possible! There are three things that actually affect how well your PP will perform during any race: The Track, your Stats, and your CHIPPs. In this blog we're going to be going over Stats.
+There are several different types of races, we call actions, you can participate in with PP Racing: Skirmishes, Duels, Trials, and more. But at the core, they all have the same foundation. You select the Pod you'd like to enter into the race, (for all actions besides Trials this will be a Pod you own from your Garage) then you either select or are told the type of Race Track you'll be racing on, and then you race! Because PP Racing is a simulation game, the whole race is run automatically and you receive the results instantly. Because of this, knowing what type of Race Tracks and Actions your Pod excels at are the best way to guarantee that you'll have the most favorable outcome possible! There are three things that actually affect how well your PP will perform during any race: The Track, your Stats, and your CHIPPs. In this blog we're going to be going over Stats.
 
 <br>
 
 
-Every Pod you get, whether it's the starter Pod from registering, a Pod from a special Capsule, or a white ticket you found Scavenging, has the same 5 basic stats:
+Every Pod you get, whether it's the starter Pod from registering, a Pod from a special Capsule, or a white SLIPP you found Scavenging, has the same 5 basic stats:
 
 <br>
 
@@ -56,7 +56,7 @@ There are 3 different events that can happen during a race: Spinning Out, Taking
 <br>
 <br>
 
-Hopefully now you know a little more about Pod Stats, PP Racing, and how to win! Keep an eye out for other blog posts in our Racing Basic Strategy series if you're interseted in learning more about how to optimize your PP and become the greatest racer in the Universe! If you made it this far, thanks for reading! **Join the discussion on discord.**  
+Hopefully now you know a little more about Pod Stats, PP Racing, and how to win! Keep an eye out for other blog posts in our Racing Basic Strategy series if you're interested in learning more about how to optimize your PP and become the greatest racer in the Universe! If you made it this far, thanks for reading! **Join the discussion on discord.**  
 <br>
 
 <div><a href="https://discord.gg/9VJbcpNbyv"><img src="/images/Discord-Logo.svg" alt="Planetary Pod Racing Discord Link"></a></div>
