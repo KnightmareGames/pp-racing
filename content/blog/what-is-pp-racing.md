@@ -1,13 +1,13 @@
 ---
 title: What is PP Racing?
-description: An overview of what Plantary Pod racing is and how to play it
+description: An overview of what Planetary Pod racing is and how to play it
 slug: what-is-pp-racing
 img: Img.png
 ---
 
 # Overview
 
-Planetary Pod Racing (PP Racing) is a racing simulation game built specifically for Discord. It is the first Discord Bot to integrate Discord Servers as a main section of the gameplay.
+Planetary Pod Racing (PP Racing) is a racing simulation game built specifically for Discord. It is the first Discord Bot to integrate Discord Servers as a main section of the game play.
 Each server registers to become a planet.
 
 <br>
@@ -41,9 +41,6 @@ stay the same unless there is some major terraforming event.... Like an asteroid
 
 **-- Weather**
     What conditions should I expect to race in?
-
-**-- Energy**
-    How much FUEL can claim from this planet?
 
 <br>
 
