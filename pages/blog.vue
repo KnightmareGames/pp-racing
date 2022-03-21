@@ -4,11 +4,13 @@
 	  <div class="articles">
 		  <div class="article" v-for="article of articles" :key="article">
 			  <nuxt-link :to="{ name: 'slug', params: { slug: article.slug } }">
-				  <div class="article-inner">
-						<img :src="require(`~/assets/resources/${article.img}`)" alt="" />
-						<div class="detail">
-							<h3>{{ article.title }}</h3>
-							<p>{{ article.description }}</p>
+				  <div class="flex flex-col justify-center self-center md:flex-row bg-white shadow-lg rounded-lg p-8">
+						<img class="max-w-xs max-h-xs" :src="require(`~/assets/resources/${article.img}`)" alt="" />
+						<div class="flex justify-center self-center ml-10">
+              <div class="flex-col">
+                <h3>{{ article.title }}</h3>
+                <p>{{ article.description }}</p>
+              </div>
 						</div>
 				  </div>
 			  </nuxt-link>
@@ -22,7 +24,7 @@ export default {
   async asyncData({ $content, params }) {
     const articles = await $content('blog', params.slug)
       .only(['title', 'description', 'img', 'slug'])
-      .sortBy('createdAt', 'asc')
+      .sortBy('createdAt', 'desc')
       .fetch();
       return {
         articles
